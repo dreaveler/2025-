@@ -1,0 +1,19 @@
+﻿  期中复习.cpp
+D:\Project\软设\期中复习.cpp(21,49): warning C4244: “=”: 从“unsigned __int64”转换到“M”，可能丢失数据
+D:\Project\软设\期中复习.cpp(21,49): warning C4244:         with
+D:\Project\软设\期中复习.cpp(21,49): warning C4244:         [
+D:\Project\软设\期中复习.cpp(21,49): warning C4244:             M=int
+D:\Project\软设\期中复习.cpp(21,49): warning C4244:         ]
+      D:\Project\软设\期中复习.cpp(21,49):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\Project\软设\期中复习.cpp(59,8):
+          查看对正在编译的函数 模板 实例化“void MemberFactory<Student>::set<int,main::<lambda_4>>(M Student::* ,N)”的引用
+          with
+          [
+              M=int,
+              N=main::<lambda_4>
+          ]
+              D:\Project\软设\期中复习.cpp(59,11):
+              请参阅 "main" 中对 "MemberFactory<Student>::set" 的第一个引用
+  
+  软设.vcxproj -> D:\Project\软设\x64\Debug\软设.exe
